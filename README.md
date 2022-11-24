@@ -10,7 +10,8 @@
 ![Luiz Henrique stats](https://github-readme-stats.vercel.app/api?username=luizlhrodrigues&show_icons=true&theme=gruvbox)
 
 ### Tecnologias que ultilizo
-<div stule="display: inline_block"><br>
+
+<div stule="display: inline_block">
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
