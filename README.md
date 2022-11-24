@@ -16,9 +16,8 @@
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div><br>
 
 Sou desenvolvedor Front-End com mais de 2 anos de experiência.<br>
