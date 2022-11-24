@@ -21,4 +21,4 @@
 </div><br>
 
 Sou desenvolvedor Front-End com mais de 2 anos de experiência.<br>
-focado em aprender cada vez mais, apreciador de boas práticas de projetos, louco por código e entusiasta de UI/UX.
+Focado em aprender cada vez mais, apreciador de boas práticas de projetos, louco por código e entusiasta de UI/UX.
