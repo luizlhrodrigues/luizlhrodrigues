@@ -18,4 +18,7 @@
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center alt="luizlhrodrigues" height="40" wudth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>
+</div><br>
+
+Sou desenvolvedor Front-End com mais de 2 anos de experiência.
+focado em aprender cada vez mais, apreciador de boas práticas de projetos, louco por código e entusiasta de UI/UX.
