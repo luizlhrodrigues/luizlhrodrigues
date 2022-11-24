@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá! me chamo Luiz Henrique. 👋
+### Olá! Eu sou o Luiz Henrique. 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-henrique-200779144/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://luiz.lhrodrigues@gmail.com)
