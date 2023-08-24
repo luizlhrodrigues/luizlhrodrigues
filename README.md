@@ -19,5 +19,5 @@
     <img align="center" alt="htm5" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" /><br><br>
 </div><br>
 
-Sou desenvolvedor Front-End, focado em aprender cada vez mais.<br>
-Apreciador de boas práticas de projetos, louco por código e entusiasta de UI/UX.
+Formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - ( UNIP ). <br>
+Especialista em Imersão Shift-Front-End pela Faculdade de Informática e Administração Paulista - ( FIAP ).
