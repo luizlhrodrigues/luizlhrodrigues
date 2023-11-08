@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( Python | Django | Apache Spark | ETL | Apache Airflow | PostgreSQL | Python | Amazon Web Services | Git ) 🚀
+( Python | Apache Spark | ETL | Apache Airflow | PostgreSQL | Amazon Web Services | Django | Git ) 🚀
 
 - 💻 Data Engineer
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
