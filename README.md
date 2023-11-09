@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( Python | Apache Spark | ETL | Apache Airflow | PostgreSQL | Amazon Web Services | Django | Git ) 🚀
+( React.Js | Next.Js | JavaScript | TypeScript | PostgreSQL | AWS | Redux | Git ) 🚀
 
-- 💻 Data Engineer
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
+- 💻 Front-end Developer
 - 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Gosto de um bom desafio
 
