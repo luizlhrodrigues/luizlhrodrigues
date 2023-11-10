@@ -6,7 +6,7 @@
 ## Me chamo Luiz Henrique
 ( React.Js | Next.Js | JavaScript | TypeScript | PostgreSQL | AWS | Redux | Git ) 🚀
 
-- 💻 Front-end Developer
+- 💻 Software engineer
 - 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 🌐 Apaixonado por desenvolvimento web
