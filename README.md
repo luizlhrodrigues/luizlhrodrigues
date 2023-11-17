@@ -4,12 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( Java | Spring Boot | Angular | Javascript | AWS ) 🚀
+( Python | SQL | Apache Airflow | Apache Spark | ETL | AWS ) 🚀
 
-- 💻 Software Engineer
+- 💻 Data Engineer
 - 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
-- 🌐 Apaixonado por desenvolvimento web
 - 💡 Gosto de um bom desafio
 
 
