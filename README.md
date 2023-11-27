@@ -6,7 +6,7 @@
 ## Me chamo Luiz Henrique
 ( Python | Django | AWS | HTML | CSS | MySQL | PostgreSQL ) 🚀
 
-- 💻 Front-end Software engineer
+- 💻 Python Developer
 - 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 🌐 Apaixonado por desenvolvimento web
