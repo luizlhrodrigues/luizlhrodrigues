@@ -6,7 +6,7 @@
 ## Me chamo Luiz Henrique
 ( React JS | Next JS | Angular | Javascript | HTML | CSS | Typescript ) 🚀
 
-- 💻 Front-end Developer
+- 💻 Software Engineer
 - 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 🌐 Apaixonado por desenvolvimento web
