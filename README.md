@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( React.js | React Native | AWS | Typescript | Javascript | HTML | CSS ) 🚀
+( Python | Django | AWS | Postgresql | HTML | CSS ) 🚀
 
 - 💻 Software Engineer
 - 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
