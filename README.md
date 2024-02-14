@@ -4,12 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( Python | Django | AWS | Postgresql | HTML | CSS ) 🚀
+( Python | Spark | AWS | Postgresql | ETL | Big Data ) 🚀
 
-- 💻 Software Engineer
-- 👨🏻‍💻 Especialista em Imersão Shift-Front-End - ( FIAP )
+- 💻 Data Engineer
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
-- 🌐 Apaixonado por desenvolvimento web
 - 💡 Gosto de um bom desafio
 
 
