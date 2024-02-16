@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( React.js | React Native | AWS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+( Python | PostgreSQL | AWS | PySpark | Apache Spark | ) 🚀
 
-- 💻 MBA em Front-End Specialist
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
+- 💻 MBA em Front-End Specialist
 - 💡 Gosto de um bom desafio
 
 
