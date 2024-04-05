@@ -6,9 +6,9 @@
 ## Me chamo Luiz Henrique
 ( Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 
-- 🌐  Web Development
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 💻 MBA em Front-End Specialist
+- 🌐 Web Development
 - 💡 Gosto de um bom desafio
 
 
