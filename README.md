@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-luiz.lhrodrigues@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.lhrodrigues@gmail.com)](mailto:luiz.lhrodrigues@gmail.com)
 
 ## Me chamo Luiz Henrique
-( React JS | React Native | Typescript | Javascript | HTML | CSS | Docker | GitHub Actions | AWS | DevOps )🚀
+( React JS | React Native | Javascript | Typescript | HTML | CSS | Docker | GitHub Actions | AWS | DevOps )🚀
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 💻 MBA em Front-End Specialist
