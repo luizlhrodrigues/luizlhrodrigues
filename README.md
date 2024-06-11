@@ -6,6 +6,8 @@
 ## Me chamo Luiz Henrique
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
+- 💻 MBA em Front-end Specialist - ( FIAP )
+- 🌐 Desenvolvimento Web
 - 💡 Gosto de um bom desafio
 
 
