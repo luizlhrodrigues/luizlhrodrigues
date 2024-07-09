@@ -7,7 +7,7 @@
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - ( UNIP )
 - 💻 MBA em Front-end Specialist - ( FIAP )
-- 🌐 Desenvolvimento Web
+- 🌐 DevOps Engineer
 - 💡 Gosto de um bom desafio
 
 
